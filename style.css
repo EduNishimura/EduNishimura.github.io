@@ -7,7 +7,7 @@ html, body {
 
 .bg{
     background-image: url('./src/fem_bg.png');
-    background-size: 100%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100dvh;
