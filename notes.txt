@@ -1,0 +1,8 @@
+"elas lutam contra o vicio"
+peckham press regular 15pt
+
+"mas tambem contra a falta de oportunidades, o abandono e o estigma"
+peckham press regular 9,5pt
+
+"o que estamos fazendo para mudar essa realidade?"
+montserrat semibold/black 14pt
